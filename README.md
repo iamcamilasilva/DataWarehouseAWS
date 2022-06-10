@@ -6,11 +6,11 @@
 
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
-As their data engineer, you are tasked with building an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to. You'll be able to test your database and ETL pipeline by running queries given to you by the analytics team from Sparkify and compare your results with their expected results.
+As their data engineer, I'm gonna tasked to building an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to.
 
 ## Project Description
 
-In this project, we are going to build an ETL pipeline for a database hosted on Redshift. To complete the project, you will need to load data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables.
+In this project, I'm going to build an ETL pipeline for a database hosted on Redshift. To complete the project, I will need to load data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables.
 
 ## How to run
 
@@ -20,7 +20,7 @@ In this project, we are going to build an ETL pipeline for a database hosted on 
 
 ## Project Datasets
 
-You'll be working with two datasets that reside in S3. Here are the S3 links for each:
+I'm going to working with two datasets that reside in S3. Here are the S3 links for each:
 
     'Song data: s3://udacity-dend/song_data'
     'Log data: s3://udacity-dend/log_data'
